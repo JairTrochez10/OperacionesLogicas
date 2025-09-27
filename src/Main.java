@@ -5,14 +5,14 @@ import Clases.CondicionalIf;
 import Clases.CicloWhile;
 public class Main {
     public static void main(String[] args) {
-        /*Clases.CicloFor obj = new Clases.CicloFor();
+        Clases.CicloFor obj = new Clases.CicloFor();
         obj.cicloFor();
         Clases.CicloWhile obj2 = new Clases.CicloWhile();
-        obj2.cicloWhile();*/
+        obj2.cicloWhile();
 
-        //Clases.LeerDatos.leerDatos();
+        Clases.LeerDatos.leerDatos();
 
-        //Clases.CondicionalIf.condicionalIf();
+        Clases.CondicionalIf.condicionalIf();
 
         Clases.CondicionalSwitch.condicionalSwitch();
     }
